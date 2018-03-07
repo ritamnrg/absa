@@ -1,0 +1,5 @@
+The problem of how to design a database is commonly encountered by those not specifically trained and practiced in the art.
+This book, therefore, is written with the lay person in mind.
+In simple language, the author uses examples from her real-life experience to highlight the types of problems that can result from poor design, to motivate readers to do good design.
+She then goes on to provide a sound method that readers can follow in order? to produce a good design
+While focus is on implementing designs in relational databases, the author does not forget those readers who will choose to implement their database in a spreadsheet such as Microsoft Excel.
